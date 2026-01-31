@@ -131,13 +131,7 @@ Load nhanh hơn
 Phù hợp máy yếu hoặc trải nghiệm hoài niệm
 
 
-So sánh nhanh:
 
-v1.x: nhẹ – mượt – cổ điển
-
-v1.5: giao diện mới hơn – nặng hơn
-
-v2.1: beta – thử nghiệm – chưa ổn định
 
 
 
