@@ -45,13 +45,6 @@ Less JavaScript overhead
 Works better on low-end devices
 
 
-Comparison:
-
-v1.x (Legacy): lighter, smoother, classic
-
-v1.5 (Stable): newer UI, heavier
-
-v2.1 (Beta): experimental, not fully optimized
 
 
 
