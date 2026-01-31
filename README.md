@@ -60,9 +60,11 @@ https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4
 Ver 1.3
 https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3
 
-Ver 1.2.x
+Ver 1.2.7
 https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2
 
+Ver 1.2.5
+https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5
 
 No installation required.
 
@@ -147,8 +149,11 @@ https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4
 Ver 1.3
 https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3
 
-Ver 1.2.x
+Ver 1.2.7
 https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2
+
+Ver 1.2.5
+https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5
 
 
 Không cần cài đặt gì thêm.
