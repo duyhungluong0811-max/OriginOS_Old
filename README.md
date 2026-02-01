@@ -55,16 +55,16 @@ Works better on low-end devices
 Open directly in your browser:
 
 Ver 1.4
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4
+https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.4
 
 Ver 1.3
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.3
 
 Ver 1.2.7
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.2
 
 Ver 1.2.5
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.2.5
 
 No installation required.
 
@@ -92,6 +92,8 @@ Please keep proper credit when redistributing.
 OriginOS WEB: Quandz24
 
 Archive & extraction: mikuphan
+
+Fork by: mikuphan
 
 
 
@@ -144,16 +146,16 @@ Phù hợp máy yếu hoặc trải nghiệm hoài niệm
 Mở trực tiếp bằng trình duyệt:
 
 Ver 1.4
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.4
 
 Ver 1.3
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.3
 
 Ver 1.2.7
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.2
 
 Ver 1.2.5
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5
+ https://duyhungluong0811-max.github.io/OriginOS_Old/Ver1.2.5
 
 
 Không cần cài đặt gì thêm.
@@ -182,3 +184,5 @@ Vui lòng ghi credit khi sử dụng lại.
 OriginOS WEB: Quandz24
 
 Trích xuất & archive: mikuphan
+
+Fork từ: mikuphan
